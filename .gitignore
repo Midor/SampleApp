@@ -19,4 +19,4 @@
 /script/rails
 
 # Ignore Gemfile
-/Gemfile
+Gemfile
