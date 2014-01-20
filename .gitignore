@@ -17,6 +17,3 @@
 
 # Ignore Symlink to rails-Skript
 /script/rails
-
-# Ignore Gemfile
-Gemfile
